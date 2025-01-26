@@ -1,5 +1,9 @@
 # INDACT_CAD
 
+## Changelog
+A Karcsi_EE_changelog.docx egy olyan dokumentum, amibe dátummal ellátva vezetjük a módosításokat. Ez elősegíti az áttekinthetőségét a projektnek.
+A feature branch-en végzett változtatások egy új fejezetként kerüljenek bele a changelog-ba.
+
 ## Alkatrésznevek rövidítéseinek magyarázata
 | Rövid név         | Hosszabb név                     | Magyar magyarázat                                      |
 |--------------------|----------------------------------|-------------------------------------------------------|
